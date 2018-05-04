@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MoviePosters</string>
+    <string name="auth_token">
+        eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1MDMxNDE3MTI5YmE2NDMyMjUyMWQ2NWFhMGE1NTdhMiIsInN1YiI6IjVhZWFkNGJiYzNhMzY4MmRmMjAwMWFlMyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.dwEGOcDWbnLE7GSBUALbhmd1yRHlhICpiJl8LJYGZ8Y
+    </string>
+    <string name="apiKey">5031417129ba64322521d65aa0a557a2</string>
+    <string name="intentKey">movie id</string>
+    <string name="trailers">Trailers:</string>
+    <string name="imagePath">http://image.tmdb.org/t/p/w500/</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="overview">OverView</string>
+    <string name="rating">Rating</string>
+    <string name="duration">Duration</string>
+    <string name="year">Year</string>
+</resources>
